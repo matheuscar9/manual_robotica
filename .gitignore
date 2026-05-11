@@ -1,0 +1,9 @@
+node_modules/
+.expo/
+.expo-home/
+.npm-cache/
+.tools/
+dist/
+web-build/
+*.log
+*.zip
